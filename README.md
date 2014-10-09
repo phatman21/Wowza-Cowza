@@ -7,3 +7,5 @@ multiples of 3 become cowza
 multiples of 5 become wowza
 
 multiples of 3 and 5 become wowza cowza
+
+Edited from the web browser
